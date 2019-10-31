@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GinoSeridonAssignment1</string>
+    <string name="action_settings">Settings</string>
+    <string name="student_number">Student Number</string>
+    <string name="secret_message">Secret Message</string>
+    <string name="input_secret_message">Input Secret Message</string>
+    <string name="studentNumber">n01281453</string>
+    <string name="quit">Quit</string>
+    <string name="studentID_Intent">STUDENT_ID</string>
+    <string name="message_intent">SECRET_MESSAGE</string>
+    <string name="sentSID">Student ID</string>
+    <string name="sentMessage">Sent Secret Message</string>
+    <string name="secondactmessage">Your Message:</string>
+    <string name="returnbutton">Return</string>
+</resources>
